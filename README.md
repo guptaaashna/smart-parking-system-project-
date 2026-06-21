@@ -76,14 +76,6 @@ Example:
 
 ---
 
-## 🎥 Demo Video
-
-Upload your project video to YouTube (Unlisted) or Google Drive and add the link below.
-
-Demo Video: [Add Link Here]
-
----
-
 ## 📊 Results
 
 | Objective | Status |
